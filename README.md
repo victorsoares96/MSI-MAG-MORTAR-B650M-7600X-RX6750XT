@@ -18,25 +18,30 @@
 | Audio Chipset    | ALC4080 Codec                  |
 | GPU              | XFX RX 6750XT 12GB              |
 | Ethernet         | RTL8125B 2.5Gbps LAN            |
-| WiFi & Bluetooth | AMD Wi-Fi 6E         |
+| WiFi & Bluetooth | AMD RZ616 Wi-Fi 6E         |
 | OS Disk(nvme)    | NVME XPG Gen4 1TB            |
 
 ### Bios Setup
 
-Based on Load Optimize defaults
+  Based on Load Optimize defaults
 
 - TMP (Disable)
 - Secure Boot (Disable)
+- Resize BAR (Disable)
 - 4G Decoding (Disable)
 - Change to CSM mode
 
 More Info: [AMD BIOS Settings](https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html#amd-bios-settings)
 
-### What works
+### Works
 
 - Audio
+- RX 6750XT Video (NootRX)
 - Ethernet
 - USB  
   ***If you have USB problems, You can use it to generate your own usb configuration information***
+
+### Not Works
+
 - Wi-Fi
 - Bluetooth
