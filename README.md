@@ -13,7 +13,7 @@
 | **Component**    | **Model**                  |
 | ---------------- | -------------------------- |
 | CPU              | AMD Ryzen 5 7600X               |
-| Motherboard      | MSI(MAG) B650M MORTAR WIFI (BIOS 7D76vA8) |
+| Motherboard      | MSI(MAG) B650M MORTAR WIFI (BIOS 7D76vA6) |
 | RAM              | XPG 32GB(16GB×2) DDR5 6000Mhz |
 | Audio Chipset    | ALC4080 Codec                  |
 | GPU              | XFX RX 6750XT 12GB              |
